@@ -1,6 +1,6 @@
 # AKC Logicadora
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/68d30613-a3ad-4161-a904-17d491351310/deploy-status)](https://app.netlify.com/sites/antoniokc/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0b746cff-9c9a-40ae-8850-0dd713df1edb/deploy-status)](https://app.netlify.com/sites/akc-logicadora/deploys)
 
 Notas sobre lógica y pensamiento crítico.
 
