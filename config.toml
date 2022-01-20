@@ -158,7 +158,7 @@ theme = "LoveIt"
   enable = true
   social = true
   avatarURL = "contact-person.jpg"
-  subtitle = "Notas sobre lo que hago"
+  subtitle = "Notas sobre lógica y pensamiento crítico"
   typeit = true
 
 [params.social]
