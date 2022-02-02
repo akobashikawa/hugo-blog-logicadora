@@ -11,7 +11,7 @@ draft: false
 date: 2022-02-02T12:42:00-05:00
 ---
 
-El positivismo es una escuela de pensamiento que propone que todo conocimiento genuino debe basarse en hallazgos reales, es decir verificables por nuestros sentidos.
+El positivismo es una escuela de pensamiento que propone que todo conocimiento genuino debe basarse en hallazgos reales, es decir, verificables por nuestros sentidos.
 
 El método científico actual es positivista. Todo conocimiento científico debe basarse en hechos reales, verificables por nuestros sentidos.
 
