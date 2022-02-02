@@ -4,6 +4,9 @@ slug: "otros-mundos"
 summary: "Acerca del alcance del método científico"
 categories: ["Reflexión"]
 tags: ["ciencia", "paradigma", "reflexion"]
+featuredImagePreview: "otros-mundos.jpg"
+featuredImage: "otros-mundos.jpg"
+images: ["otros-mundos.jpg"]
 draft: false
 date: 2022-02-02T12:42:00-05:00
 ---
@@ -71,3 +74,5 @@ Quizás sea que hemos ido tras el hueso, su aroma, y gozado de su sabor, en este
 Si tomo un palo y te amenazo, sientes miedo. Quizás la tinta sea la cortisona y el papel tu fisiología, pero el miedo es el mensaje que se forma dentro de tí. Es un plano emocional.
 
 Al menos están estos dos planos, emocional y mental, para mostrarnos que hay algo más allá de la ciencia.
+
+[Crédito por la imágen original](https://w0.peakpx.com/wallpaper/315/508/HD-wallpaper-astronaut-sherif-cloud-mirror-nice-reflection-thumbnail.jpg)
