@@ -14,7 +14,7 @@ El método científico actual es positivista. Todo conocimiento científico debe
 
 A veces optamos por una opción extrema como defensa ante otra opción extrema. Si una comunidad científica es frecuentemente amenazada por las comunidades religiosas, con dogmas que conducen a bloqueos, quizás sea natural conducir la lucha a un terreno donde se tenga ventaja. Pienso que es la razón por la que la ciencia se ató con fuerza al positivismo.
 
-Sin embargo, sí existen más cosas que las que podemos verificar por nuestros sentidos.
+Sin embargo, sí existen más cosas que las que podemos verificar con nuestros sentidos.
 
 Como guía en este mundo físico, la ciencia usa un modelo físico matemático que se corresponde. De modo que podemos ver reflejadas en ecuaciones las explicaciones de los fenómenos que observamos, y hacer predicciones de lo que podría ocurrir.
 
