@@ -1,4 +1,4 @@
-baseURL = "https://akc-logicadora.netlify.app/"
+baseURL = "https://logicadora.akcademia.xyz/"
 # [en, es, ...] determines default content language
 defaultContentLanguage = "es"
 # language code
