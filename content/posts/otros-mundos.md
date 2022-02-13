@@ -2,7 +2,7 @@
 title: "Otros mundos"
 slug: "otros-mundos"
 summary: "Acerca del alcance del método científico"
-categories: ["Reflexión"]
+categories: ["Reflexion"]
 tags: ["ciencia", "paradigma", "reflexion"]
 featuredImagePreview: "otros-mundos.jpg"
 featuredImage: "otros-mundos.jpg"
