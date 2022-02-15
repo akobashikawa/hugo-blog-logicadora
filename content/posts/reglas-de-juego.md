@@ -15,7 +15,7 @@ date: 2022-02-13T15:31:00-05:00
 	- A, cuando es A
 	- **Sí**, cuando sé que es sí
 	- **No**, cuando sé que es no
-	- **Quizás**, cuando no sé si es sí o sí es no
+	- **Quizás**, cuando no sé si es sí o si es no
 	- **No sé**, cuando no sé
 	- **Creo**, cuando confío en lo que sé
 	- Creo en estás reglas, quizás sean correctas
