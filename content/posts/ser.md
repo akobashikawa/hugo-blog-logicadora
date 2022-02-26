@@ -41,7 +41,7 @@ date: 2022-02-13T15:49:00-05:00
 - _Yo_ existo?
 	- Existo para mí
 - Existen _los demás_?
-	- Existe mi percepción de su existencia
+	- No lo sé, pero existe mi percepción de su existencia
 - Qué es **verdadero**?
 	- Quizás algo que no _cambia_
 		- aunque cambiemos nosotros
