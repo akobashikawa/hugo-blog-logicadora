@@ -38,10 +38,14 @@ date: 2022-02-13T15:49:00-05:00
 	- No lo sé, pero existe la visión de algo
 - Lo que percibimos, existe?
 	- No lo sé, pero existe la percepción de algo
+		- Quizás percibimos algo que está más allá de nosotros
+		- Quizás percibimos un eco de nosotros mismos
 - _Yo_ existo?
 	- Existo para mí
 - Existen _los demás_?
-	- No lo sé, pero existe mi percepción de su existencia
+	- No lo sé, pero existe mi percepción de algo que concluyo es su existencia
+		- Quizás sea algo que está más allá de nosotros
+		- Quizás sea un eco de nosotros mismos
 - Qué es **verdadero**?
 	- Quizás algo que no _cambia_
 		- aunque cambiemos nosotros
