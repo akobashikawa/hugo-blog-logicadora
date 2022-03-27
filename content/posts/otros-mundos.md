@@ -45,7 +45,7 @@ Por ejemplo, si escribes en un papel "El árbol es verde", una cosa son las manc
 
 Podemos hacer una copia de esas manchas debajo, y nuestros sentidos y mediciones mostrarnos que son objetivamente distintas de las primeras. Pero el mensaje es el mismo. 
 
-¿En dónde existe el mensaje? Existe en una dimensión metal. Más allá del modelo físico matemático. Sin peso, sin materia, pero ahí está.
+¿En dónde existe el mensaje? Existe en una dimensión mental. Más allá del modelo físico matemático. Sin peso, sin materia, pero ahí está.
 
 Reflexionar sobre lo que es un mensaje puede ser una tarea muy profunda.
 
