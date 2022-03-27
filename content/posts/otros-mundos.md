@@ -57,7 +57,7 @@ Así que el mensaje depende de quien lo lee.
 
 ¿Y no es todo el universo como un enorme mensaje que hemos formado en nuestra mente con los estímulos que hemos recibido con nuestros sentidos?
 
-Si escribo con tinta roja en un papel blanco "Esta es la salida" y me coloco unas gafas rojas, no podré distinguir las manchas y ya no habrá mensaje, aunque sé que existe la frase escrita capaz de ayudar a formarla.
+Si escribo con tinta roja en un papel blanco "Esta es la salida" y me coloco unas gafas rojas, no podré distinguir las manchas y ya no habrá mensaje, aunque sé que existe la frase escrita capaz de ayudar a formarlo.
 
 En un mundo de portadores de gafas de colores, cuántas cosas sabrías que existen y que los demás no pueden distinguir.
 
