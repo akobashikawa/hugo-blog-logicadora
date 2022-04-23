@@ -13,7 +13,7 @@ date: 2022-04-22T22:21:00-05:00
 
 Se nos suele inducir a qué la discusión es sobre si el electrón sea sólo onda o sea sólo partícula, una de las dos.
 
-En el discurso típico se insiste en presentar que ser partícu y ser onda son opciones exclusivas de una cuestión.
+En el discurso típico se insiste en presentar que ser partícula y ser onda son opciones exclusivas de una cuestión.
 
 Pienso que una forma natural de conciliar las observaciones experimentales sería admitir que todas las partículas son realmente composiciones de ondas y que a partir de cierta escala eso se van notando.
 
