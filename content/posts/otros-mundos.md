@@ -45,7 +45,7 @@ Por ejemplo, si escribes en un papel "El árbol es verde", una cosa son las manc
 
 Podemos hacer una copia de esas manchas debajo, y nuestros sentidos y mediciones mostrarnos que son objetivamente distintas de las primeras. Pero el mensaje es el mismo. 
 
-¿En dónde existe el mensaje? Existe en una dimensión metal. Más allá del modelo físico matemático. Sin peso, sin materia, pero ahí está.
+¿En dónde existe el mensaje? Existe en una dimensión mental. Más allá del modelo físico matemático. Sin peso, sin materia, pero ahí está.
 
 Reflexionar sobre lo que es un mensaje puede ser una tarea muy profunda.
 
@@ -57,7 +57,7 @@ Así que el mensaje depende de quien lo lee.
 
 ¿Y no es todo el universo como un enorme mensaje que hemos formado en nuestra mente con los estímulos que hemos recibido con nuestros sentidos?
 
-Si escribo con tinta roja en un papel blanco "Esta es la salida" y me coloco unas gafas rojas, no podré distinguir las manchas y ya no habrá mensaje, aunque sé que existe la frase escrita capaz de ayudar a formarla.
+Si escribo con tinta roja en un papel blanco "Esta es la salida" y me coloco unas gafas rojas, no podré distinguir las manchas y ya no habrá mensaje, aunque sé que existe la frase escrita capaz de ayudar a formarlo.
 
 En un mundo de portadores de gafas de colores, cuántas cosas sabrías que existen y que los demás no pueden distinguir.
 

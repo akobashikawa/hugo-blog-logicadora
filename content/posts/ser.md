@@ -65,4 +65,3 @@ date: 2022-02-13T15:49:00-05:00
 	- Es el ahora
 	- Yo siento que cambio
 
-[Crédito por la imágen original](https://www.mpadeco.com/thumb.php?zc=3&f=0&src=/sites/mpadeco/files/products/6c2d9ec9b197153c8bdffd7d0f53d94d.png&fl=none&w=500&h=500)
