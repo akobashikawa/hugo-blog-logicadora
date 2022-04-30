@@ -29,7 +29,7 @@ Pero quizás nos estamos perdiendo otra pregunta: ¿Cómo diferenciar un objeto 
 
 En una cuarta dimensión, si los habitantes de ella pusieran cosas ante nuestra percepción, para nosotros sería como si aparecieran de pronto, como de la nada. Su voz nos parecería venir de todos lados, o de dentro de nosotros. Se parece tanto a experiencias descritas en diversos testimonios que me parece claro incorporar esas ideas a la exploración.
 
-Cuando admites una dimensión más, sería posible ir de un lugar a otro sin pasar por los puntos intermedios de nuestro espacio si saltamos a esa dimensión desde donde estamos y luego descendemos en nuestro destino. Del mismo modo que una pulga puede ir de un punto a otro de un hilo extendido, sin caminar por él.
+Cuando admites una dimensión más, sería posible ir de un lugar a otro sin pasar por los puntos intermedios de nuestro espacio, si saltamos a esa dimensión desde donde estamos y luego descendemos en nuestro destino. Del mismo modo que una pulga puede ir de un punto a otro de un hilo extendido, sin caminar por él.
 
 Ese hilo es como nuestro universo percibido.
 
